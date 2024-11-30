@@ -25,7 +25,7 @@ theme:
         name: Switch to light mode
 
   logo: assets/logo_uma.png
-  favicon: assets/logo_uma.svg
+  favicon: assets/logo_uma_blanco.svg
 
   features:
     - navigation.tracking
