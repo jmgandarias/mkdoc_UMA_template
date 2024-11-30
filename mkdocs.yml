@@ -24,7 +24,7 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
 
-  logo: assets/logo_uma.png
+  logo: assets/logo_uma_blanco.png
   favicon: assets/logo_uma_blanco.svg
 
   features:
