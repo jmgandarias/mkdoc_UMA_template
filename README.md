@@ -1,7 +1,6 @@
-# ros
+# Advanced Robotics course
 
-Source code for [the ROS Labs Website](https://tom-howard.github.io/ros/).   
+Teaching material for [the Advanced Robotics Course](https://jmgandarias.github.io/advanced_robotics), last year B.S. in Mechatronics Engineering (Robotics mention) at the University of Málaga
 
-Tom Howard  
-Multidisciplinary Engineering Education  
-[The University of Sheffield](https://www.sheffield.ac.uk/)
+Developed by [Juan M. Gandarias]([hr](https://jmgandarias.github.io/))
+

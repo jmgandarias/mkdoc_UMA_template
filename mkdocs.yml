@@ -1,6 +1,6 @@
 site_name: "Advanced Robotics Course"
 site_url: https://jmgandarias.com/advanced_robotics
-site_description: ROS Labs for the COM2009/3009 Robotics Course at The University of Sheffield (and more). 
+site_description: Teaching material for the Advanced Robotics Course at The University of Málaga. 
 theme:
   name: material
   icon:
@@ -41,7 +41,7 @@ theme:
     - content.action.view
   
 copyright: >
-  &copy; <a href="https://www.sheffield.ac.uk/engineering/diamond-engineering/our-staff/tom-howard">Tom Howard</a>, The University of Sheffield, 2024 (License: <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC</a>)<br />
+  &copy; <a href="https://jmgandarias.github.io">Juan M. Gandarias</a>, The University of Málaga, 2024 (License: <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC</a>)<br />
   <a href="#__consent">Change cookie settings</a>
 repo_url: https://github.com/jmgandarias/advanced_robotics
 repo_name: jmgandarias/advanced_robotics
@@ -58,34 +58,34 @@ plugins:
       enabled: !ENV [CI, false]
   - redirects:
       redirect_maps:
-        "com2009/la1/README.md": "com2009/assignment1/README.md"
-        "com2009/la1/week1.md": "com2009/assignment1/part1.md"
-        "com2009/la1/week2.md": "com2009/assignment1/part2.md"
-        "com2009/la1/week3.md": "com2009/assignment1/part3.md"
-        "com2009/la1/week4.md": "com2009/assignment1/part4.md"
-        "com2009/la1/week5.md": "com2009/assignment1/part5.md"
-        "com2009/la1/week6.md": "com2009/assignment1/part6.md"
-        "com2009/la2/README.md": "com2009/assignment2/README.md"
-        "com2009/la2/getting-started.md": "com2009/assignment2/getting-started.md"
-        "com2009/la2/overview.md": "com2009/assignment2/README.md"
-        "com2009/la2/task1.md": "com2009/assignment2/parta/task1.md"
-        "com2009/la2/task2.md": "com2009/assignment2/parta/task2.md"
-        "com2009/la2/task3.md": "com2009/assignment2/README.md"
-        "com2009/la2/task4.md": "com2009/assignment2/README.md"
-        "com2009/la2/task5.md": "com2009/assignment2/README.md"
-        "com2009/la2/extras/laptops.md": "waffles/tips/laptops.md"
-        "com2009/la2/extras/submission.md": "com2009/assignment2/submission.md"
-        "com2009/la2/extras/README.md": "com2009/assignment2/README.md"
-        "wsl-ros/README.md": "software/wsl-ros/install.md"
-        "wsl-ros/backup-restore.md": "software/on-campus/getting-started.md"
-        "wsl-ros/configure-vscode.md": "software/on-campus/vscode.md"
-        "wsl-ros/vscode.md": "software/on-campus/vscode.md"
-        "wsl-ros/first-run.md": "software/on-campus/getting-started.md"
-        "wsl-ros/wsl-ros-return.md": "software/on-campus/getting-started.md"
-        "wsl-ros/rdp.md": "software/on-campus/rdp.md"
-        "wsl-ros/wt-settings.md": "software/README.md"
-        "wsl-ros/linux-term.md": "software/on-campus/linux-term.md"
-        "wsl-ros/installing.md": "software/README.md"       
+        # "com2009/la1/README.md": "com2009/assignment1/README.md"
+        # "com2009/la1/week1.md": "com2009/assignment1/part1.md"
+        # "com2009/la1/week2.md": "com2009/assignment1/part2.md"
+        # "com2009/la1/week3.md": "com2009/assignment1/part3.md"
+        # "com2009/la1/week4.md": "com2009/assignment1/part4.md"
+        # "com2009/la1/week5.md": "com2009/assignment1/part5.md"
+        # "com2009/la1/week6.md": "com2009/assignment1/part6.md"
+        # "com2009/la2/README.md": "com2009/assignment2/README.md"
+        # "com2009/la2/getting-started.md": "com2009/assignment2/getting-started.md"
+        # "com2009/la2/overview.md": "com2009/assignment2/README.md"
+        # "com2009/la2/task1.md": "com2009/assignment2/parta/task1.md"
+        # "com2009/la2/task2.md": "com2009/assignment2/parta/task2.md"
+        # "com2009/la2/task3.md": "com2009/assignment2/README.md"
+        # "com2009/la2/task4.md": "com2009/assignment2/README.md"
+        # "com2009/la2/task5.md": "com2009/assignment2/README.md"
+        # "com2009/la2/extras/laptops.md": "waffles/tips/laptops.md"
+        # "com2009/la2/extras/submission.md": "com2009/assignment2/submission.md"
+        # "com2009/la2/extras/README.md": "com2009/assignment2/README.md"
+        # "wsl-ros/README.md": "software/wsl-ros/install.md"
+        # "wsl-ros/backup-restore.md": "software/on-campus/getting-started.md"
+        # "wsl-ros/configure-vscode.md": "software/on-campus/vscode.md"
+        # "wsl-ros/vscode.md": "software/on-campus/vscode.md"
+        # "wsl-ros/first-run.md": "software/on-campus/getting-started.md"
+        # "wsl-ros/wsl-ros-return.md": "software/on-campus/getting-started.md"
+        # "wsl-ros/rdp.md": "software/on-campus/rdp.md"
+        # "wsl-ros/wt-settings.md": "software/README.md"
+        # "wsl-ros/linux-term.md": "software/on-campus/linux-term.md"
+        # "wsl-ros/installing.md": "software/README.md"       
 
 markdown_extensions:
   - admonition
