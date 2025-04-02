@@ -10,7 +10,7 @@ Systems Engineering and Automation Department
 
 If you want to create your own website, you need to do the following:
 
-1. Clone/fork [the repo](https://github.com/jmgandarias/mkdoc_UMA_template)
+1. Clone/fork [the repo](https://github.com/jmgandarias/mkdocs_UMA_template)
 2. Install mkdocs and the required plugins
 
     ```bash
